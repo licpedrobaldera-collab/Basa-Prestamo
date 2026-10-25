@@ -1,0 +1,6 @@
+{
+  "name": "PrestDominicana PRO - Sistema de Préstamos y Cobranzas RD",
+  "description": "Sistema integral de gestión de préstamos en línea, cobranzas de campo, amortización, evaluación de riesgo crediticio con Gemini AI, pagaré notarial con firma táctil y contabilidad financiera.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
